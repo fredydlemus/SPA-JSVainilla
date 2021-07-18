@@ -33,7 +33,7 @@ module.exports = {
             {
                 patterns: [{
                     from: './src/styles/styles.css',
-                    to: ''
+                    to: './styles,css'
                 }],
             },
         ),
